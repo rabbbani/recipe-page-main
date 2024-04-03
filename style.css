@@ -191,4 +191,11 @@ li::marker{
     .prep-time{
         margin-inline: 2rem;
     }
+    .attribution{
+        background-color: white;
+    }
 }
+
+
+.attribution { padding: 10px 0; opacity: .6; font-size: 13px; text-align: center; }
+.attribution a { font-weight: 600; color:var(--Nutmeg); }
